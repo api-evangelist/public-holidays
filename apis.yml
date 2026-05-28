@@ -1,0 +1,32 @@
+aid: public-holidays
+name: Public Holidays
+description: "Data on national, regional, and religious holidays via API"
+url: https://www.abstractapi.com/holidays-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Calendar"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Calendar
+  - Public APIs
+apis:
+  - name: Public Holidays
+    description: "Data on national, regional, and religious holidays via API"
+    humanURL: https://www.abstractapi.com/holidays-api
+    baseURL: https://www.abstractapi.com/holidays-api
+    tags:
+      - Calendar
+    properties:
+      - type: Documentation
+        url: https://www.abstractapi.com/holidays-api
+common:
+  - type: Website
+    url: https://www.abstractapi.com/holidays-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
