@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.abstractapi.com/holidays-api
 common:
+  - type: DomainSecurity
+    url: security/public-holidays-domain-security.yml
   - type: Website
     url: https://www.abstractapi.com/holidays-api
   - type: PublicAPIsListing
