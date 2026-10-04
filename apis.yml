@@ -39,7 +39,6 @@ apis:
   - name: Public Holidays
     description: "Data on national, regional, and religious holidays via API"
     humanURL: https://www.abstractapi.com/holidays-api
-    baseURL: https://www.abstractapi.com/holidays-api
     tags:
       - Calendar
     properties:
